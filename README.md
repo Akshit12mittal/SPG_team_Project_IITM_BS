@@ -18,11 +18,11 @@ The project covers:
 
 ## 👥 Team Members
 
-* **Agrima Bhatnagar** (22f2000781)
-* **Akash Kumar** (22f2000946)
-* **Akshit Mittal** (23f2004636)
-* **Alisha Amit Hatalkar** (23f1002196)
-* **Parveen** (21f3001560)
+* **Agrima Bhatnagar**
+* **Akash Kumar**
+* **Akshit Mittal** (_Me_)
+* **Alisha Amit Hatalkar** 
+* **Parveen**
 
 ---
 
